@@ -1,6 +1,6 @@
 # 🏏 CricScore – Simple Match-to-Match Scoring Web App
 
-[CricScore](https://darshanjaindn.github.io/cricscore.github.io/) is a **lightweight, no-login** web app for casual cricket match scoring. Whether you're on a mobile, tablet, or desktop browser – CricScore helps you **record, view, and save match summaries** with zero setup.
+[CricScore](https://boxcric.pages.dev/) is a **lightweight, no-login** web app for casual cricket match scoring. Whether you're on a mobile, tablet, or desktop browser – CricScore helps you **record, view, and save match summaries** with zero setup.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 📲 Try It Now
 
-🔗 [Live App: https://darshanjaindn.github.io/cricscore.github.io/](https://darshanjaindn.github.io/cricscore.github.io/)
+🔗 [Live App: https://darshanjaindn.github.io/cricscore.github.io/](https://boxcric.pages.dev/)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## 🚀 How to Use
 
-1. Open the [live link](https://darshanjaindn.github.io/cricscore.github.io/)
+1. Open the [live link](https://boxcric.pages.dev/)
 2. Start a new match
 3. Enter player scores and stats as the match progresses
 4. View the full summary after both innings
